@@ -1,2 +1,6 @@
 # 100-days-of-code
-Journey to 100 days of coding
+
+**Day 1: October 20th 2020,Tuesday**
+
+
+
